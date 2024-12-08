@@ -1,0 +1,4 @@
+Flask
+flask_sqlalchemy
+kafka-python-ng
+python-dotenv
